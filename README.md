@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-tibio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu aliento tibio](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-tibio/) |
+| **Get License** | [Request Licensing for Tu aliento tibio](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-tibio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento tu aliento tibio quemándome la piel
+> Me miras de reojo y sabes lo que quiero hacer
+> La noche está cayendo, la luna es de papel
+> Y yo me pierdo lento probando de tu miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
